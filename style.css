@@ -186,8 +186,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /****/
 
+/*
 #feature {
   background-color: #f8f8f8;
+}
+*/
+
+#feature {
+  background-color: #f4ec9b;
 }
 
 .head-title {
